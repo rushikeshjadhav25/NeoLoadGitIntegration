@@ -1,0 +1,16 @@
+# Project description file
+
+project.name=NeoLoadGitIntegrationProject
+project.version=8.8
+project.original.version=8.8
+product.name=NeoLoad
+product.original.name=NeoLoad
+ssh.trustUnknownHosts.MONITORS=false
+monitor.tls.insecure=false
+product.original.version=2023.3.0
+project.is-open-test-settings-after-upload=false
+project.id=bc419338-0715-482a-acaa-66d1bd7d6b6e
+project.config.path=config.zip
+project.config.storage=ZIP
+team.server.enabled=true
+team.server.project=rushikeshjadhav25/NeoLoadGitIntegration
